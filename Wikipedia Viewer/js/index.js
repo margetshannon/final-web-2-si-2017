@@ -1,3 +1,5 @@
+//source code dari Joshua Pelling 
+
 function AnimateRotate(angle) {
 	$(".fa-search-plus").unbind("click");
 	$(".fa-search-plus").css("cursor", "default");
